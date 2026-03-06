@@ -20,7 +20,9 @@ The project also compares the recommendation system with a simple **popularity-b
 
 ## Dataset
 
-Dataset used: **Online Retail Dataset**
+The dataset used in this project is available in the repository:
+
+dataset/online_retail.csv
 
 The dataset contains historical transaction data from an online retail store.
 
